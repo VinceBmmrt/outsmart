@@ -62,6 +62,4 @@ ARENA=random
 5. From the root directory, start streamlit to run the app!  
 `python -m streamlit run app.py`
 
-If you have problems, please do get in touch - I'd love to help!  
-I'm at ed [at] edwarddonner [dot] com.
 
